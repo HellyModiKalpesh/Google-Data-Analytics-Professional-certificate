@@ -1,6 +1,6 @@
 ## [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-![Coursera final certificate-1](https://github.com/HellyModiKalpesh/Google-Data-Analytics-Professional-certificate/assets/105526680/093e8099-5e2d-4fe4-89d6-1d82379a9fa4)
+![image](https://github.com/HellyModiKalpesh/Google-Data-Analytics-Professional-certificate/assets/105526680/a05cd39d-22e5-4bd4-89ea-8124bee343ff)
 
 
 Welcome to my repository for the Google Data Analytics Professional Certificate. This repository contains all the projects and assignments I completed as part of the certificate program.
