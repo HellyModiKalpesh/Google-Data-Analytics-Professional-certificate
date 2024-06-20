@@ -8,12 +8,12 @@ Welcome to my repository for the Google Data Analytics Professional Certificate.
 
 The Google Data Analytics Professional Certificate is an online program that equips learners with in-demand skills to start a career in data analytics. The program covers a wide range of topics, including:
 
-Data cleaning
-Data visualization
-SQL
-R programming
-Data analysis with spreadsheets
-Data-driven decision making
+* Data cleaning
+* Data visualization
+* SQL
+* R programming
+* Data analysis with spreadsheets
+* Data-driven decision making
 
 The course includes hands-on projects and real-world case studies to ensure practical application of the skills learned.
 
